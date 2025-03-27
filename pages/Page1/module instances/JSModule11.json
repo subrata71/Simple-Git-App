@@ -10,9 +10,17 @@
       "getCurrentVersion": "[]",
       "myFun1": "[]",
       "myFun2": "[]",
-      "v3": "[]"
+      "v3": "[]",
+      "v4": "[]"
     },
     "moduleInputs": {
+      "hciyhuotop": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "hciyhuotop",
+        "label": "v4",
+        "propertyName": "inputs.v4"
+      },
       "mspefhpwhu": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
@@ -44,6 +52,6 @@
     },
     "name": "JSModule11",
     "pageId": "Page1",
-    "version": "v3.0.0"
+    "version": "v4.0.0"
   }
 }
