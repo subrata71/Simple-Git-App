@@ -7,6 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
+      "getCurrentVersion": "[]",
       "myFun1": "[]",
       "myFun2": "[]"
     },
@@ -24,10 +25,17 @@
         "id": "tvioshvotb",
         "label": "myFun1",
         "propertyName": "inputs.myFun1"
+      },
+      "xilzgyullk": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "xilzgyullk",
+        "label": "getCurrentVersion",
+        "propertyName": "inputs.getCurrentVersion"
       }
     },
     "name": "JSModule11",
     "pageId": "Page1",
-    "version": "v1.0.0"
+    "version": "v2.0.0"
   }
 }
