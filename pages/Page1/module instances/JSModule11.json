@@ -9,7 +9,8 @@
     "inputs": {
       "getCurrentVersion": "[]",
       "myFun1": "[]",
-      "myFun2": "[]"
+      "myFun2": "[]",
+      "v3": "[]"
     },
     "moduleInputs": {
       "mspefhpwhu": {
@@ -26,6 +27,13 @@
         "label": "myFun1",
         "propertyName": "inputs.myFun1"
       },
+      "vuyuhtjtim": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "vuyuhtjtim",
+        "label": "v3",
+        "propertyName": "inputs.v3"
+      },
       "xilzgyullk": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
@@ -36,6 +44,6 @@
     },
     "name": "JSModule11",
     "pageId": "Page1",
-    "version": "v2.0.0"
+    "version": "v3.0.0"
   }
 }
