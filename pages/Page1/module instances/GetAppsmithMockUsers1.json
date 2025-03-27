@@ -9,6 +9,7 @@
     "inputs": {},
     "moduleInputs": {},
     "name": "GetAppsmithMockUsers1",
-    "pageId": "Page1"
+    "pageId": "Page1",
+    "version": "v1.0.0"
   }
 }

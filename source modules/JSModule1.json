@@ -2,5 +2,6 @@
   "moduleName": "JSModule1",
   "moduleUUID": "7fef54f2-8dd7-4877-89ea-d81e1fa90739",
   "packageName": "Simple Git Package",
-  "packageUUID": "aed0385c-9084-4844-b423-f3b0218de9d8"
+  "packageUUID": "aed0385c-9084-4844-b423-f3b0218de9d8",
+  "version": "v1.0.0"
 }
