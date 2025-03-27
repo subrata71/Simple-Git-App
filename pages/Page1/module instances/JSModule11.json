@@ -12,9 +12,17 @@
       "myFun2": "[]",
       "v3": "[]",
       "v4": "[]",
-      "v5": "[]"
+      "v5": "[]",
+      "v6": "[]"
     },
     "moduleInputs": {
+      "cdruztqgxe": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "cdruztqgxe",
+        "label": "v6",
+        "propertyName": "inputs.v6"
+      },
       "hciyhuotop": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
@@ -60,6 +68,6 @@
     },
     "name": "JSModule11",
     "pageId": "Page1",
-    "version": "v5.0.0"
+    "version": "v6.0.0"
   }
 }
