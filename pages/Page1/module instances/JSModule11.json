@@ -11,7 +11,8 @@
       "myFun1": "[]",
       "myFun2": "[]",
       "v3": "[]",
-      "v4": "[]"
+      "v4": "[]",
+      "v5": "[]"
     },
     "moduleInputs": {
       "hciyhuotop": {
@@ -20,6 +21,13 @@
         "id": "hciyhuotop",
         "label": "v4",
         "propertyName": "inputs.v4"
+      },
+      "jwchdsizty": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "jwchdsizty",
+        "label": "v5",
+        "propertyName": "inputs.v5"
       },
       "mspefhpwhu": {
         "controlType": "INPUT_TEXT",
@@ -52,6 +60,6 @@
     },
     "name": "JSModule11",
     "pageId": "Page1",
-    "version": "v4.0.0"
+    "version": "v5.0.0"
   }
 }
