@@ -13,7 +13,8 @@
       "v3": "[]",
       "v4": "[]",
       "v5": "[]",
-      "v6": "[]"
+      "v6": "[]",
+      "v7": "[]"
     },
     "moduleInputs": {
       "cdruztqgxe": {
@@ -58,6 +59,13 @@
         "label": "v3",
         "propertyName": "inputs.v3"
       },
+      "wnovqdepup": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "wnovqdepup",
+        "label": "v7",
+        "propertyName": "inputs.v7"
+      },
       "xilzgyullk": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
@@ -68,6 +76,6 @@
     },
     "name": "JSModule11",
     "pageId": "Page1",
-    "version": "v6.0.0"
+    "version": "v7.0.0"
   }
 }
